@@ -1,5 +1,4 @@
 {
-  "features": {
     "Downloader": [
       {
         "method": "GET",
@@ -2392,5 +2391,4 @@
         "status": "online"
       }
     ]
-  }
 }
