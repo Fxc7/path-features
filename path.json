@@ -381,7 +381,7 @@
       {
         "method": "GET",
         "name": "Text Style Maker",
-        "path": "/api/maker/styletext?text=xcodersapikey=",
+        "path": "/api/maker/styletext?text=xcoders&apikey=",
         "status": "online"
       },
       {
@@ -705,7 +705,7 @@
       {
         "method": "GET",
         "name": "Custom Harta Tahta Image Maker",
-        "path": "/api/maker/costumtahta?text=xcoders&text2=and&text3=friends&apikey=",
+        "path": "/api/maker/costumtahta?text1=xcoders&text2=and&text3=friends&apikey=",
         "status": "online"
       },
       {
