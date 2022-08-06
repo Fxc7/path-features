@@ -2339,7 +2339,7 @@
       {
         "method": "POST",
         "name": "Uploader Media",
-        "path": "/api/tools/upload",
+        "path": "/api/tools/upload?apikey=",
         "status": "online"
       },
       {
